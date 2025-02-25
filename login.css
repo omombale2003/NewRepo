@@ -1,0 +1,46 @@
+body {
+    background-color:rgb(109, 150, 203);
+    font-family: serif;
+    font-style: bold;
+    font-size: 48px;
+    color: #6b85a7;
+    width: 100%;
+    margin:auto;
+    padding: 5%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+div.login {
+    background-color: rgb(255, 255, 255);
+    border-radius: 15px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+    padding: 30px;
+    width: 800px;
+    height: vh;
+}
+
+.login h2 {
+    color: #6290ad;
+    margin-bottom: 20px;
+}
+
+h2{
+    font-family: serif;
+    font-size: 44px;
+    font-style: bold;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+

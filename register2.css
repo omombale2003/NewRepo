@@ -1,0 +1,53 @@
+body{
+    background-color: rgb(107, 191, 216);
+    color: rgb(114, 182, 210);
+    font-family:'Calibri:', Times, serif;
+    font-size: 18px;
+    margin:0;
+    padding: 0;
+    display: flex;
+    height: fit-content;
+    justify-content: center;
+    align-items: center;
+}
+ 
+ 
+.main{
+    background-color: white;
+    border-radius: 15px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+    padding: 15px 15px 0px 20px;
+    width: 925px;
+    height: fit-content;
+    margin-top: 17px;
+}
+ 
+.btn1{
+    text-align: center;
+}
+ 
+.row1{
+    justify-content: center;
+}
+ 
+h1{
+    text-align: center;
+}
+ 
+.btn{
+    color: rgb(6,64,43);
+    background-color: rgb(127, 255, 212);
+}
+ 
+.img{
+    height: 380px;
+    width : 365px;
+}
+ 
+.imageDiv{
+    margin:auto
+}
+ 
+.heading{
+    color: rgb(6,64,43);
+}
